@@ -11,5 +11,7 @@ Assignment 2: Set up your environment
 
 The assignment was done with help from Daniel Fay, Vishwajeet Shelar and Achilles Saxby. 
 
+The environment vairable was created using 'export' command which was inserted in the .bashrc file on my home directory on compute using 'vim' text editor. Then alias was defined by assigning the environment variable PUI2016 to alias pui2016.
+
 ![Screenshot 1 Assignment 2: my .bashrc](PUI_HW_bashrc.JPG)
 ![Screenshot 1 Assignment 2: my .alias](PUI_HW_PWD.JPG)
