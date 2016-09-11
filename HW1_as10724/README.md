@@ -2,7 +2,7 @@
 
 Assignment 1: Finish Lab 1
 
-The assignment could not be finished in the class and had to be finished as part of the homework. I sort help in understanding the commands and working of github from Jonathan Pichot and Vishwajeet Shelar while I carried out initial forking exercise with Aaron D'Souza. Later I carried out forking exercise with Victor Gripp (forked each other's repo), Daniel Fay (I forked his repo) and Sokratis Papadopoulos (he forked my repo) for further practice. (Note: I named my text file as letsstart.txt instead of myfirstfile.txt)
+The assignment could not be finished in the class and had to be finished as part of the homework. I sort help in understanding the commands and working of github from Jonathan Pichot and Vishwajeet Shelar while I carried out initial forking exercise with Aaron D'Souza. Later I carried out forking exercise with Victor Gripp (forked each others' repo), Daniel Fay (forked his repo) and Sokratis Papadopoulos (forked my repo) for further practice. (Note: I named my text file as letsstart.txt instead of myfirstfile.txt)
 
 I helped Alexey fork Enrique's repo.
 
