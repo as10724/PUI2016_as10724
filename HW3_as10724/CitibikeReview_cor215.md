@@ -1,11 +1,23 @@
 Christian Rosado
 
-Reviewing Akival's City Bike assignment.
+Reviewing Avikal's City Bike assignment.
 
-a.  
+a.  Avikal's idea, women city bike riders' trip duration is longer than men, is an interesting idea to explore. Being that Avikal wants to see if women bike longer, his null hypothesis has to state that men bike longer or the same amount as women. His alternative hypothesis will then state the opposite, women bike longer than male city bike riders. You can see below that that Avikal's H0 and Ha are formulated correctly.
 
-a. verify that their Null and alternative hypotheses are formulated correctly
+Ho : Fduration.mean() <= Mduration.mean()
+Ha : Fduration.mean() > Mduration.mean()
 
-b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+If you look at Avikal's visualization of his data, women clearly have a lower trip duration time when compared to men. However, running a statistical experiment would be important to see if the difference is significant. Only then, can Avikal see if he can reject his null hypothesis. 
 
-c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+b. Yes, Avikal chose the correct variables and wrangled the necessary data to run his experiment.
+    Variables:
+    1. Gender
+    2. Trip Duration
+    
+By sorting his trip duration data set by gender, he can easily compare the mean trip duration times between men and women, and effectively run  his statistical experiment. 
+
+c. The statistical test I recommend for Avikal's experiment is the t-test. The t-test assesses whether the means of two groups are statistically different from each other. This analysis is appropriate whenever you want to compare the means of two groups such as, the trip duration between males and females. In Avikal's case, he would use the t-test to prove if there is a significant difference between the means of the two groups. If there is, he can reject his null and consider his alternative valid.
+
+
+
