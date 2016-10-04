@@ -1,8 +1,8 @@
 Christian Rosado
 
-Reviewing Avikal's City Bike assignment.
+Reviewing Avikal's Citi Bike assignment.
 
-a.  Avikal's idea, women city bike riders' trip duration is longer than men, is an interesting idea to explore. Being that Avikal wants to see if women bike longer, his null hypothesis has to state that men bike longer or the same amount as women. His alternative hypothesis will then state the opposite, women bike longer than male city bike riders. You can see below that that Avikal's H0 and Ha are formulated correctly.
+a.  Avikal's idea, women citi bike riders' trip duration is longer than men, is an interesting idea to explore. Being that Avikal wants to see if women bike longer, his null hypothesis has to state that men bike longer or the same amount as women. His alternative hypothesis will then state the opposite, women bike longer than male citi bike riders. You can see below that that Avikal's H0 and Ha are formulated correctly.
 
 Ho : Fduration.mean() <= Mduration.mean()
 Ha : Fduration.mean() > Mduration.mean()
