@@ -26,7 +26,7 @@ Experimental setup: you have a test and a control sample.
 
 Hypothesis: Diet helps lose more fat than the exercise.
 
-NULL Hypothesis: Average percentage of fat lost by dieting in the test sample is same or less than the percentage of fat lost by the exercise in control sample. p-value = 0.05
+NULL Hypothesis: Average percentage of fat lost by dieting in the test sample is same or less than the average percentage of fat lost by the exercise in control sample. p-value = 0.05
 
 Ho: %age of fat loss dieting (test group) <= %age of fat loss exercising (control group)
 
@@ -49,7 +49,7 @@ Experimental setup: measure cessation rates for smokers randomly assigned to use
 
 Hypothesis: Cessation rate for smokers using nicotine patch is higher than ones using placebo patch. 
 
-NULL Hypothesis: Cessation rate for  for smokers using nicotine patch is same or lower than cessation rate in placebo patch users. p-value = 0.05
+NULL Hypothesis: Average Cessation rate for  for smokers using nicotine patch is same or lower than average cessation rate in placebo patch users. p-value = 0.05
 
 Ho: Rate of cessation (nicotine patch) <= Rate of cessation (placebo patch)
 
