@@ -10,7 +10,6 @@ import sys
 import csv
 
 
-#My_MTA_key = "857fded5-0cd9-4823-805b-25a91f048372"
 MTA_KEY = sys.argv[1]
 BUS_LINE = sys.argv[2]
 name = sys.argv[3]
