@@ -19,4 +19,4 @@ Exploratory spatial data analysis of CitiBike data using pysal and geopandas for
 
 
 
-## Homework was done individually. 
+## Homework was done individually. Though concepts were discussed with Daniel Fay and Victor Gripp.
